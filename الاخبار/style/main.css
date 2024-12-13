@@ -1,0 +1,295 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-weight: 20px;
+font-size: 20px;
+}
+body {
+    background-color: #FFFFFF;
+    direction: rtl;
+    font-family: "Cairo";
+    overflow-x: hidden;
+  }
+
+  /*  Start-Navbar  */
+  .container-fluid{
+      padding: 0px 65px;
+  }
+  .navbar .collapse {
+    padding-right: 40px;
+}
+  .navbar .collapse ul li {
+      padding: 10px;
+  }
+  .navbar .collapse ul li a{
+color: #2B2B2B;
+  }
+  .navbar .collapse ul li a:hover{
+      color: #F4A825;
+      border-bottom: 1px solid;
+  }
+  .btn-home{
+    font-size: 17px;
+    font-weight: bold;
+    background-color: #F4A825;
+    color: #2B2B2B;
+    padding: 7px 25px;
+border-radius: 5px;
+border-style: none;
+margin: 7px;
+}
+.btn-home:hover{
+    color: #1C67AA;
+    background-color: white;
+    border: 1px solid #1C67AA;
+}
+.log{
+    padding: 0px 5px;
+
+}
+    /*  Start-Navgation-bar  */
+
+
+  /* Start-model-1 */
+
+
+  .modal-dialog{
+    max-width: 60%;
+    padding-top: 40px;
+  }
+  .modal-header{
+   border-style:none ;
+  }
+  .modal-content{
+    border-radius: 30px;
+    height: 510px;
+  }
+.modal-body{
+  display: flex;
+}
+.left-section {
+  width: 44%;
+}
+.right-section {
+width: 50%;
+padding-right: 70px;
+}
+.title-log{
+  font-size: 30px;
+}
+.p-model{
+  color: #8E8E8E;
+}
+.Group-img{
+  width: 100%;
+}
+.btn_return{
+border: none;
+}
+
+.id-number{
+ padding-bottom: 25px;
+}
+#id-number{
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #F3F3F3;
+  border-style: none;
+}
+.id-college{
+  padding-bottom: 25px;
+}
+#id-college{
+  width: 100%;
+  height: 40px;
+  background-color: #F3F3F3;
+  border-style: none;
+    border-radius: 5px;
+
+}
+.register{
+  width: 140px;
+  padding: 5px;
+  color: #2B2B2B;
+  background-color: #F6C608;
+  border-style: none;
+  border-radius: 8px;
+}
+
+/*  Ending-model-1  */
+
+
+/*  Start-model-2  */
+.dialog-{
+  max-width: 60%;
+  padding-top: 40px;
+}
+.header-2{
+ border-style:none ;
+}
+.model-2{
+  border-radius: 30px;
+  height: 525px;
+}
+.model-body-2{
+display: flex;
+}
+.left-section-2 {
+width: 44%;
+}
+.right-section-2 {
+width: 50%;
+padding-right: 70px;
+}
+.title-log{
+  font-size: 30px;
+}
+.p-model-2{
+color: #8E8E8E;
+}
+.Group-img-2{
+width: 100%;
+}
+.btn_return{
+border: none;
+}
+
+.id-number-2{
+padding-bottom: 25px;
+}
+#id-number-2{
+width: 100%;
+height: 40px;
+border-radius: 5px;
+background-color: #F3F3F3;
+border-style: none;
+}
+.id-college-2{
+padding-bottom: 25px;
+}
+#id-college-2{
+width: 100%;
+height: 40px;
+background-color: #F3F3F3;
+border-style: none;
+  border-radius: 5px;
+
+}
+.register-2{
+width: 140px;
+padding: 5px;
+color: #2B2B2B;
+background-color: #F6C608;
+border-style: none;
+border-radius: 8px;
+}
+
+/*  Ending-model-2  */
+
+
+/*-------------------  Ending-Navbar -----------------------*/
+
+/*  Start-section-1  */
+
+.section-1{
+    padding:100px 70px;
+
+}
+
+.date{
+color: #919191;
+  font-size: 16px;
+  margin: 0px;
+  padding: 10px;
+}
+
+.icon-calender{
+    width: 21px;
+    margin-bottom: 6px;
+}
+
+.p-content{
+    font-size: 20px;
+}
+.col-other-news{
+    padding-right: 60px;
+}
+
+.other-news-img{
+    width: 100%;
+    border-radius: 20px;
+            object-fit: cover;
+}
+
+/*  Ending-section-1  */
+
+/*  start-footer  */
+.footer {
+  background-color: #3485B9;
+  color: #fff;
+  padding-top: 40px;
+  padding-bottom: 22px;
+}
+.address{
+  display: flex;
+  padding: 22px 0px;
+}
+.i-address{
+    transform: scale(1.2);
+    padding: 3px 0px;
+}
+.p-address{
+  font-size: 16px;
+  padding: 0px 10px;
+}
+#list-contact{
+  line-height: 2.2;
+}
+.footer a {
+  color: #fff;
+  text-decoration: none;
+}
+.h-contact{
+  font-size: 20px;
+  padding-bottom: 22px;
+  margin: 0px;
+}
+.p-contact{
+  font-size: 18px;
+  padding-bottom: 22px;
+  margin: 0px;
+}
+.footer a:hover {
+  text-decoration: underline #F4A825;
+  color: #F4A825;
+}
+.container-social{
+  padding: 5px 0px;
+}
+.icon-youtube{
+  color: #ffc800;
+    padding-right: 10px;
+    padding-left: 16px;
+}
+.icon-insta{
+  padding-left: 16px;
+}
+.form-contact{
+  direction: rtl;
+}
+.subscribe-button {
+  background-color: #ffc107;
+  border: none;
+  color: #000;
+  padding: 5px 15px;
+  border-radius: 16px 0px 0px 16px;
+}
+.subscribe-input {
+  border-radius: 0px 16px 16px 0px;
+}
+.footer-logo img {
+  width: 50%;
+}
+
+/*  Ending-footer  */
